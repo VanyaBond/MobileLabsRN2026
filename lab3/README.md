@@ -78,7 +78,7 @@
 
 | Користувачі (VirtualizedList) | Логи аудиту дій | Фільтрація (FormSheet)  | Показ відфільтрованого |
 | :---: | :---: | :---: | :---: |
-| ![Users](./assets/users.jpg) | ![Logs](./assets/logs.jpg) | ![Filter](./assets/filter-result.jpg) |
+| ![Users](./assets/users.jpg) | ![Logs](./assets/logs.jpg) | ![Filter](./assets/filter.jpg) | ![Filter](./assets/filter-result.jpg) |
 
 ---
 
