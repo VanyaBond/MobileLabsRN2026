@@ -68,21 +68,21 @@
 
 ## 📱 Скріншоти застосунку
 
-| Авторизація | Бокове меню (Custom Drawer) | Дашборд (useFocusEffect) |
+| Авторизація | Бокове меню (Custom Drawer) | Дашборд  |
 | :---: | :---: | :---: |
 | ![Login](./assets/login.jpg) | ![Drawer](./assets/drawer.jpg) | ![Dashboard](./assets/dashboard.jpg) |
 
-| Стрічка новин (VirtualizedList) | Деталі новини ([id].jsx) | Створення/Редагування (modal) | pop-up погодити видалення  |
+| Стрічка новин  | Деталі новини ([id].jsx) | Створення/Редагування (modal) | pop-up погодити видалення  |
 | :---: | :---: | :---: |
 | ![News](./assets/news.jpg) | ![Details](./assets/details.jpg) | ![Editor](./assets/del.jpg) |
 
-| Користувачі (VirtualizedList) | Логи аудиту дій | Фільтрація (FormSheet)  | Показ відфільтрованого |
+| Користувачі (VirtualizedList) | Логи аудиту дій | Фільтрація   | Показ відфільтрованого |
 | :---: | :---: | :---: | :---: |
 | ![Users](./assets/users.jpg) | ![Logs](./assets/logs.jpg) | ![Filter](./assets/filter.jpg) | ![Filter](./assets/filter-result.jpg) |
 
 ---
 
-## 📂 Структура проєкту (lab3)
+## 📂 Структура проєкту 
 
 ```
 lab3/
