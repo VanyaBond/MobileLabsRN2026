@@ -2,7 +2,7 @@
 
 ## 📝 Опис
 
-У рамках лабораторної роботи розроблено апку **«KineticOrb Clicker»** на базі **Expo Router** та сучасної бібліотеки жестової взаємодії **React Native Gesture Handler (v2 Gestures API)** разом з **React Native Reanimated**.
+У рамках лабораторної роботи розроблено апку **«KineticOrb Clicker»** на базі **Expo Router** та сучасної бібліотеки жестової взаємодії **React Native Gesture Handler** разом з **React Native Reanimated**.
 
 Головним інтерактивним елементом застосунку є енергетична Kinetic Orb, яка розпізнає комплексні сценарії жестів, обчислює очки та динамічно актуалізує перелік ігрових завдань.
 
@@ -58,13 +58,13 @@
 
 ## 📱 Скріншоти застосунку
 
-| Головний екран (Клікер) | Жестова взаємодія (Pan / Pinch) |
-| :---: | :---: |
-| ![Main Screen](./assets/main.jpg) | ![Gesture](./assets/gesture.jpg) |
+| Головний екран (Клікер) | Жестова взаємодія (Pan / Pinch) | one click |double click | swipe | touching |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Main Screen](./assets/main.jpg) | ![Gesture](./assets/gestur.jpg) | ![one-click](./assets/one-click.jpg) |![double-click](./assets/double-click.jpg) | ![swipe](./assets/swipe.jpg) | ![touch](./assets/touching.jpg) |
 
-| Список завдань (Квести) | Налаштування та скидання |
-| :---: | :---: |
-| ![Quests](./assets/quests.jpg) | ![Settings](./assets/settings.jpg) |
+| Список завдань (Квести) | Список завдань виконаний| Налаштування та скидання |Можливість скинути прогрес |
+| :---: | :---: | :---: |:---: |
+| ![Quests](./assets/quests.jpg) | ![Quests-compl](./assets/all%20completed.jpg) | ![Settings](./assets/del%20set.jpg) |
 
 ---
 
