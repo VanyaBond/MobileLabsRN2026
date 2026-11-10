@@ -1,0 +1,15 @@
+export const THEME = {
+  bgApp: '#0B0F19',
+  bgCard: '#151C2C',
+  bgCardBorder: '#232D45',
+  primary: '#8B5CF6',
+  primaryLight: '#A78BFA',
+  cyan: '#06B6D4',
+  cyanLight: '#67E8F9',
+  emerald: '#10B981',
+  amber: '#F59E0B',
+  rose: '#F43F5E',
+  textPrimary: '#F8FAFC',
+  textMuted: '#94A3B8',
+  white: '#FFFFFF',
+};
