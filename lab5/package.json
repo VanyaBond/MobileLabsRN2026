@@ -1,0 +1,25 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "dev": "expo start -c",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "*",
+    "expo": "~58.0.0",
+    "expo-constants": "~58.0.0",
+    "expo-file-system": "~58.0.0",
+    "expo-linking": "~58.0.0",
+    "expo-router": "~58.0.0",
+    "expo-status-bar": "~58.0.0",
+    "react": "19.2.3",
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "*",
+    "react-native-screens": "*"
+  },
+  "private": true
+}
